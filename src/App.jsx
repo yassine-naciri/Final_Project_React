@@ -6,7 +6,7 @@ import ShopPage from './pages/shop/shop';
 import ContactPage from './pages/contact/contact';
 import AboutPage from './pages/about/about';
 import BlogPage from './pages/blog/blog';
-import Login from './pages/login/login';
+import Login from './pages/login/Login';
 import SignUp from './pages/signup/signup';
 
 const App = () => {
